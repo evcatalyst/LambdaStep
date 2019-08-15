@@ -23,7 +23,7 @@ export class WidgetService extends core.Construct {
     // Grant permissions to read/write the WidgetStore bucket by the handler Function
     bucket.grantReadWrite(handler);
 
-    // Define the API Gateway service
+    // Define the API Gateway service and integrate it to the Lambda function with a GET method
     const api = new apigateway.RestApi(this, "widgets-api", {
       restApiName: "Widget Service",
       description: "this service serves widgets."
