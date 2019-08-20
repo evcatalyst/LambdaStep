@@ -11,6 +11,7 @@ Development of a CDK IaC framework for Lambda Step Functions
 - [ ] Testing of step functions
 - [ ] Modify Step Functions
 - [ ] Testing of Step Functions
+- [ ] Define & Deploy VPC and Policy Restrictions to the Stack where relevant\* [NB]
 - [ ] Adding Instrumentation to Functions and Process
 - [ ] Incorporate additional services beyond S3 to the stack
 - [ ] Iterating and testing on additional services, functions and processes
