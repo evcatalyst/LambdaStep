@@ -3,10 +3,10 @@
 Development of a CDK IaC framework for Lambda Step Functions
 
 - [x] Setup CDK
-- [ ] Setup baseline Serverless Application
-- [ ] Test baseline Application
-- [ ] Modify Serverless Application basic (no step function)
-- [ ] Test modifications
+- [x] Setup baseline Serverless Application
+- [x] Test baseline Application
+- [x] Modify Serverless Application basic (no step function)
+- [x] Test modifications
 - [ ] Add a step function to the serverless application
 - [ ] Testing of step functions
 - [ ] Modify Step Functions
